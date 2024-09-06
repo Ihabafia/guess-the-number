@@ -29,7 +29,14 @@ So the binary number is 11101101, and the decimal number is 237.
 
 Have Fun.
 
-The Code uses:
-Laravel 11.22.0
-Livewire 3.5.6
-Tailwindcss 2.2.19
+If you need any help you can:
+- email me at: [ihab@abouafia.com](mailto:ihab@abouafia.com).
+- Twitter (X): [@ihab_abu_afia](https://twitter.com/ihab_abu_afia)
+
+#### The Code uses:
+- Laravel 11.22.0
+- Livewire 3.5.6
+- Tailwindcss 2.2.19
+
+#### License
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
