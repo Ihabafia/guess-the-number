@@ -9,7 +9,7 @@
     <title>Guess The Number</title>
 
 </head>
-<body class="bg-amber-50">
+<body class="bg-amber-50 mx-auto">
 {{ $slot }}
 </body>
 </html>
